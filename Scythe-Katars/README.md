@@ -1,10 +1,12 @@
-## Table of Contents
+## Combos
 - [Scythe Slight (a) (BnB)](#scythe-slight-a-bnb)
 - [Scythe Nlight Nair (a)](#scythe-nlight-nair-a)
 - [Scythe Dlight (this one is impossible)](#scythe-dlight-this-one-is-impossible)
 - [Scythe Dlight](#scythe-dlight)
 - [Scythe Nair (a)](#scythe-nair-a)
 - [Scythe Dair (can be better?)](#scythe-dair-can-be-better)
+- [Scythe Dsig](#scythe-dsig)
+- [Scythe Ssig (a)](#scythe-ssig)
 
 ### Scythe Slight (a) (BnB)
 - Scythe Slight (a)
@@ -42,3 +44,9 @@
 - Scythe Nair (a)
 - Katar Nsig
 - Scythe Ssig
+
+### Scythe Dsig
+no combo
+
+### Scythe Ssig
+no combo
