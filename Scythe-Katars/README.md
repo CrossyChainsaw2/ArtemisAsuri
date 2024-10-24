@@ -1,3 +1,11 @@
+## Table of Contents
+- [Scythe Slight (a) (BnB)](#scythe-slight-a-bnb)
+- [Scythe Nlight Nair (a)](#scythe-nlight-nair-a)
+- [Scythe Dlight (this one is impossible)](#scythe-dlight-this-one-is-impossible)
+- [Scythe Dlight](#scythe-dlight)
+- [Scythe Nair (a)](#scythe-nair-a)
+- [Scythe Dair (can be better?)](#scythe-dair-can-be-better)
+
 ### Scythe Slight (a) (BnB)
 - Scythe Slight (a)
 - Katar Nlight
