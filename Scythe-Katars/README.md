@@ -1,12 +1,12 @@
 ## Combos
 - [Scythe Slight (a) (BnB)](#scythe-slight-a-bnb)
 - [Scythe Nlight Nair (a)](#scythe-nlight-nair-a)
-- [Scythe Dlight (OPEN)](#scythe-dlight-this-one-is-impossible)
-- [Scythe Dlight (a) (OPEN)](#scythe-dlight-a)
-- [Scythe Nair (a) (OPEN)](#scythe-nair-a)
-- [Scythe Dair (can be better?) (OPEN)](#scythe-dair-can-be-better)
-- [Scythe Dsig (OPEN)](#scythe-dsig)
-- [Scythe Ssig (a) (OPEN)](#scythe-ssig)
+- [Scythe Dlight - (OPEN)](#scythe-dlight-this-one-is-impossible)
+- [Scythe Dlight (a) - (OPEN)](#scythe-dlight-a)
+- [Scythe Nair (a) - (OPEN)](#scythe-nair-a)
+- [Scythe Dair (can be better?) - (OPEN)](#scythe-dair-can-be-better)
+- [Scythe Dsig - (OPEN)](#scythe-dsig)
+- [Scythe Ssig (a) - (OPEN)](#scythe-ssig)
 
 ### Scythe Slight (a) (BnB)
 - Scythe Slight (a)
