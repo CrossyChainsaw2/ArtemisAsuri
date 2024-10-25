@@ -11,17 +11,23 @@
 ---
 
 ### Scythe Slight (a) (BnB)
-Scythe Slight (a) -> 
-Sword Nlight -> 
-Scythe Dlight (a) -> 
-Sword Dsig -> 
-Scythe Dair (a) -> 
-Sword Dlight Dair -> 
-Scythe Ssig -> 
-Sword GC Ssig
+- Scythe Slight (a)
+- Sword Nlight
+- Scythe Dlight (a)
+- Sword Dsig
+- Scythe Dair (a)
+- Sword Dlight Dair
+- Scythe Ssig
+- Sword GC Ssig
 
 ### Scythe Nlight Nair (a)
-- Description of the combo here...
+- Scythe Nlight Nair
+- Sword GC Dlight Dair
+- Scythe Dair
+- Sword Nlight
+- Scythe Slight
+- Sword Dsig
+- Scythe Ssig
 
 ### Scythe Dlight - (OPEN)
 - Description of the combo here...
@@ -30,7 +36,14 @@ Sword GC Ssig
 - Description of the combo here...
 
 ### Scythe Nair (a) - (OPEN)
-- Description of the combo here...
+- Scythe Nair (a)
+- Sword Nlight
+- Scythe Dlight (a)
+- Sword Dsig
+- Scythe Dair (a)
+- Sword Dlight Dair
+- Scythe Ssig
+- Sword GC Ssig
 
 ### Scythe Dair - (OPEN)
 - Description of the combo here...
