@@ -18,11 +18,12 @@
 
 ### Scythe Nlight Nair (a)
 - Scythe Nlight Nair (a)
-- Katar Dsig
+- Katar GC Dsig
 - Scythe Dair
 - Katar Nlight
 - Scythe Recovery
 - Katar Nsig
+- Scythe Ssig
 
 ### Scythe Dlight (this one is impossible)
 - Scythe Dlight
