@@ -39,7 +39,14 @@
 - Ssig
 
 ### Scythe Dlight (a) - (OPEN)
-- Description of the combo here...
+- Scythe Dlight (a)
+- Sword Nlight
+- Scythe Dlight (a)
+- Sword Dsig
+- Scythe Dair (a)
+- Sword Dlight Dair
+- Scythe Ssig
+- Sword GC Ssig
 
 ### Scythe Nair (a)
 - Scythe Nair (a)
