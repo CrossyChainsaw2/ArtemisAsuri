@@ -22,7 +22,7 @@
 
 ### Scythe Nlight Nair (a)
 - Scythe Nlight Nair
-- Sword GC Dlight Dair
+- Sword GC Dlight Dair / Sair
 - Scythe Dair
 - Sword Nlight
 - Scythe Slight
