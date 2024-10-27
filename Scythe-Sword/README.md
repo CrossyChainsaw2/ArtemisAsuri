@@ -30,7 +30,13 @@
 - Scythe Ssig
 
 ### Scythe Dlight - (OPEN)
-- Description of the combo here...
+- Dlight
+- Sair
+- Dair (a)
+- Nlight
+- Slight
+- Dsig
+- Ssig
 
 ### Scythe Dlight (a) - (OPEN)
 - Description of the combo here...
