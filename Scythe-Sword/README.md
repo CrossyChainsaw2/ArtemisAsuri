@@ -3,7 +3,7 @@
 - [Scythe Nlight Nair (a)](#scythe-nlight-nair-a)
 - [Scythe Dlight - (OPEN)](#scythe-dlight)
 - [Scythe Dlight (a) - (OPEN)](#scythe-dlight-a)
-- [Scythe Nair (a) - (OPEN)](#scythe-nair-a)
+- [Scythe Nair (a)](#scythe-nair-a)
 - [Scythe Dair - (OPEN)](#scythe-dair)
 - [Scythe Dsig - (OPEN)](#scythe-dsig)
 - [Scythe Ssig (a) - (OPEN)](#scythe-ssig)
@@ -35,7 +35,7 @@
 ### Scythe Dlight (a) - (OPEN)
 - Description of the combo here...
 
-### Scythe Nair (a) - (OPEN)
+### Scythe Nair (a)
 - Scythe Nair (a)
 - Sword Nlight
 - Scythe Dlight (a)
