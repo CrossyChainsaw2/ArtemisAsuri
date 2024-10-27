@@ -68,7 +68,20 @@
 - Ssig
 
 ### Scythe Dsig - (OPEN)
-- Description of the combo here...
+- Scythe Dsig
+- Sword Nlight
+- Scythe Dlight (a)
+- Sword Dsig
+- Scythe Dair (a)
+- Sword Dlight Dair
+- Scythe Ssig
+- Sword GC Ssig
 
 ### Scythe Ssig (a) - (OPEN)
-- Description of the combo here...
+- Scythe Ssig
+- Sword Sair
+- Scythe Dair
+- Sword Nlight
+- Scythe Slight
+- Sword Dsig
+- Scythe Ssig
