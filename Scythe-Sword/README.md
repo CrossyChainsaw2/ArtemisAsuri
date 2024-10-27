@@ -1,6 +1,6 @@
 ## Combos
 - [Scythe Slight (a) (BnB)](#scythe-slight-a-bnb)
-- [Scythe Nlight Nair (a) - (OPEN)](#scythe-nlight-nair-a)
+- [Scythe Nlight Nair (a)](#scythe-nlight-nair-a)
 - [Scythe Dlight - (OPEN)](#scythe-dlight)
 - [Scythe Dlight (a) - (OPEN)](#scythe-dlight-a)
 - [Scythe Nair (a) - (OPEN)](#scythe-nair-a)
