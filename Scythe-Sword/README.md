@@ -1,12 +1,12 @@
 ## Combos
 - [Scythe Slight (a) (BnB)](#scythe-slight-a-bnb)
 - [Scythe Nlight Nair (a)](#scythe-nlight-nair-a)
-- [Scythe Dlight - (OPEN)](#scythe-dlight)
-- [Scythe Dlight (a) - (OPEN)](#scythe-dlight-a)
+- [Scythe Dlight](#scythe-dlight)
+- [Scythe Dlight (a)](#scythe-dlight-a)
 - [Scythe Nair (a)](#scythe-nair-a)
-- [Scythe Dair - (OPEN)](#scythe-dair)
-- [Scythe Dsig - (OPEN)](#scythe-dsig)
-- [Scythe Ssig (a) - (OPEN)](#scythe-ssig)
+- [Scythe Dair](#scythe-dair)
+- [Scythe Dsig](#scythe-dsig)
+- [Scythe Ssig (a)](#scythe-ssig)
 
 ---
 
@@ -29,7 +29,7 @@
 - Sword Dsig
 - Scythe Ssig
 
-### Scythe Dlight - (OPEN)
+### Scythe Dlight
 - Dlight
 - Sair
 - Dair (a)
@@ -38,7 +38,7 @@
 - Dsig
 - Ssig
 
-### Scythe Dlight (a) - (OPEN)
+### Scythe Dlight (a)
 - Scythe Dlight (a)
 - Sword Nlight
 - Scythe Dlight (a)
@@ -58,7 +58,7 @@
 - Scythe Ssig
 - Sword GC Ssig
 
-### Scythe Dair - (OPEN)
+### Scythe Dair
 - Dair
 - Nlight
 - Slight
@@ -67,7 +67,7 @@
 - Sair
 - Ssig
 
-### Scythe Dsig - (OPEN)
+### Scythe Dsig
 - Scythe Dsig
 - Sword Nlight
 - Scythe Dlight (a)
@@ -77,7 +77,7 @@
 - Scythe Ssig
 - Sword GC Ssig
 
-### Scythe Ssig (a) - (OPEN)
+### Scythe Ssig (a)
 - Scythe Ssig
 - Sword Sair
 - Scythe Dair
