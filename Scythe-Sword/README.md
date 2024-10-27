@@ -59,7 +59,13 @@
 - Sword GC Ssig
 
 ### Scythe Dair - (OPEN)
-- Description of the combo here...
+- Dair
+- Nlight
+- Slight
+- Dsig
+- Dlight
+- Sair
+- Ssig
 
 ### Scythe Dsig - (OPEN)
 - Description of the combo here...
