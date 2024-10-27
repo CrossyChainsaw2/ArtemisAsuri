@@ -7,6 +7,7 @@
 - [Scythe Dair](#scythe-dair)
 - [Scythe Dsig](#scythe-dsig)
 - [Scythe Ssig (a)](#scythe-ssig)
+- [Sword Nlight](#sword-nlight)
 
 ---
 
@@ -85,3 +86,12 @@
 - Scythe Slight
 - Sword Dsig
 - Scythe Ssig
+
+### Sword Nlight (BnB)
+- Sword Nlight
+- Scythe Slight (a)
+- Sword Dsig
+- Scythe Dair (a)
+- Sword Dlight Dair
+- Scythe Ssig
+- Sword GC Ssig
