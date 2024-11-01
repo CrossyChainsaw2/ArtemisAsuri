@@ -5,10 +5,10 @@
 - [Scythe Nlight Nair (a)](#scythe-nlight-nair-a)
 - [Scythe Dlight - (OPEN)](#scythe-dlight-this-one-is-impossible)
 - [Scythe Dlight (a) - (OPEN)](#scythe-dlight-a)
-- [Scythe Nair (a) - (OPEN)](#scythe-nair-a)
-- [Scythe Dair (can be better?) - (OPEN)](#scythe-dair-can-be-better)
-- [Scythe Dsig - (OPEN)](#scythe-dsig)
-- [Scythe Ssig (a) - (OPEN)](#scythe-ssig)
+- [Scythe Nair (a) (low)](#scythe-nair-a)
+- [Scythe Dair](#scythe-dair-can-be-better)
+- [Scythe Dsig](#scythe-dsig)
+- [Scythe Ssig](#scythe-ssig)
 
 ---
 
@@ -56,11 +56,13 @@
 - Katar Nsig
 
 ### Scythe Dlight (a)
-- No combo
+- Scythe Dlight
+- Katar Sair
+- bnb
 
 ### Scythe Nair (a)
 - Scythe Nair (a)
-- BnB
+- bnb
 
 ### Scythe Dair (can be better?)
 - Scythe Dair
@@ -70,7 +72,10 @@
 - Scythe Ssig
 
 ### Scythe Dsig
-no combo
+- Scythe Dsig
+- bnb
 
 ### Scythe Ssig
-no combo
+- Scythe Ssig
+- Katar Nsig
+- bnb
