@@ -3,10 +3,10 @@
 - [Scythe Slight (a) (bnb2)](#scythe-slight-a-bnb2)
 - [Scythe Slight (a) (Damaged) (bnb-damaged)](#scythe-slight-a-bnb2)
 - [Scythe Nlight Nair (a)](#scythe-nlight-nair-a)
-- [Scythe Dlight](#scythe-dlight-this-one-is-impossible)
+- [Scythe Dlight](#scythe-dlight)
 - [Scythe Dlight (a)](#scythe-dlight-a)
 - [Scythe Nair (a) (low)](#scythe-nair-a)
-- [Scythe Dair](#scythe-dair-can-be-better)
+- [Scythe Dair](#scythe-dair)
 - [Scythe Dsig](#scythe-dsig)
 - [Scythe Ssig](#scythe-ssig)
 
