@@ -9,7 +9,7 @@
 - [Scythe Dair](#scythe-dair)
 - [Scythe Dsig](#scythe-dsig)
 - [Scythe Ssig](#scythe-ssig)
-- [Katars Slight Nlight]
+- [Katars Slight Nlight](#katars-slight-nlight)
 
 ---
 
