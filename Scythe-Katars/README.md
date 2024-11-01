@@ -9,8 +9,12 @@
 - [Scythe Dair](#scythe-dair)
 - [Scythe Dsig](#scythe-dsig)
 - [Scythe Ssig](#scythe-ssig)
+- [Katars Slight Nlight]
 
 ---
+
+## Notes
+- GP instead of dair?
 
 ### Scythe Slight (a) (bnb)
 - Scythe Slight (a)
@@ -74,4 +78,8 @@
 ### Scythe Ssig
 - Scythe Ssig
 - Katar Nsig
+- bnb
+
+### Katars Slight Nlight
+- Katars Slight Nlight
 - bnb
