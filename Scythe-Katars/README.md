@@ -1,5 +1,7 @@
 ## Combos
-- [Scythe Slight (a) (BnB)](#scythe-slight-a-bnb)
+- [Scythe Slight (a) (bnb)](#scythe-slight-a-bnb)
+- [Scythe Slight (a) (bnb2)](#scythe-slight-a-bnb2)
+- [Scythe Slight (a) (Damaged) (bnb-damaged)](#scythe-slight-a-bnb2)
 - [Scythe Nlight Nair (a)](#scythe-nlight-nair-a)
 - [Scythe Dlight - (OPEN)](#scythe-dlight-this-one-is-impossible)
 - [Scythe Dlight (a) - (OPEN)](#scythe-dlight-a)
@@ -8,13 +10,33 @@
 - [Scythe Dsig - (OPEN)](#scythe-dsig)
 - [Scythe Ssig (a) - (OPEN)](#scythe-ssig)
 
-### Scythe Slight (a) (BnB)
+---
+
+### Scythe Slight (a) (bnb)
 - Scythe Slight (a)
 - Katar Nlight
 - Scythe Dair
 - Katar Dsig
 - Scythe Ssig
 - Katar GC Ssig
+
+### Scythe Slight (a) (bnb2)
+- Scythe Slight (a)
+- Katar Nlight
+- Scythe Dair
+- Katar Dsig
+- Scythe Ssig
+- Katar GC Nsig
+- Scythe Nsig
+
+### Scythe Slight (a) (Damaged) (bnb-damaged)
+- Scythe Slight (a)
+- Katar Nlight
+- Scythe Dair
+- Katar Dsig
+- Scythe Dlight
+- Katar Nsig
+- Scythe Nsig
 
 ### Scythe Nlight Nair (a)
 - Scythe Nlight Nair (a)
@@ -37,7 +59,8 @@
 - No combo
 
 ### Scythe Nair (a)
-- No combo (BnB?)
+- Scythe Nair (a)
+- BnB
 
 ### Scythe Dair (can be better?)
 - Scythe Dair
