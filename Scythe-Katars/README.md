@@ -47,24 +47,20 @@
 - Katar Nsig
 - Scythe Ssig
 
-### Scythe Dlight (this one is impossible)
+### Scythe Dlight
 - Scythe Dlight
-- Katar Dsig
-- Scythe Dair
-- Katar Nlight
-- Scythe Recovery (maybe you can do Nair (a) into me Nsig into you Ssig)
-- Katar Nsig
-
-### Scythe Dlight (a)
-- Scythe Dlight
-- Katar Sair
+- Katar Sair/Nsig
 - bnb
 
-### Scythe Nair (a)
+### Scythe Dlight (a)
+- Scythe Dlight (a)
+- bnb
+
+### Scythe Nair (a) (low)
 - Scythe Nair (a)
 - bnb
 
-### Scythe Dair (can be better?)
+### Scythe Dair
 - Scythe Dair
 - Katar Nlight
 - Scythe Nair (a)
