@@ -7,16 +7,8 @@
 ### Lance Nlight
 - Lance Nlight
 - Sword Nlight
-- Lance Slight Nair
-- Sword GC Dlight Dair
-- Lance Nsig
-- Sword Nair / Recovery
-
-### Sword Nlight
-- Sword Nlight
-- Lance Nlight
+- Lance Slight Dair
 - Sword Dsig
-- Lance Slight Nair
-- Sword GC Dlight Dair
-- Lance Nsig
-- Sword Nair / Recovery
+- Lance GC Dlight
+- Sword Sair
+- Lance Dash Ssig
