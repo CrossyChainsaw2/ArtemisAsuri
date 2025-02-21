@@ -14,7 +14,17 @@
 ---
 
 ## Notes
-- GP instead of dair?
+what about
+- sl
+- nl
+- dair
+- dsig
+- ssig
+- nsig
+- dl
+- dair
+- ssig
+- does this work?
 
 ### Scythe Slight (a) (bnb)
 - Scythe Slight (a)
